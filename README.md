@@ -1,11 +1,12 @@
 # ITPolsri-Assets
 
 
+# Tes Photo On readme
+
 > Update assets
+> Irvan Ganteng siap Membantu
+>
+>
+> Nicely!
 
-'''
-<?php
-echo "Try this PHP"
-
-?>
-'''
+![](https://www.refnaldy.itpolsri.org/assets/photo/irvan-minum.jpg)
